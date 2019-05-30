@@ -1,6 +1,12 @@
 Simple spider for crawling products from the MrBricolage website.
 Data collected is: product name, price, image url and characteristics.
 
+SUGGESTION:
+It is better to run this script into a virtualenv. 
+the requirements.txt file includes all the necessery additional packages
+needed for this project to run properly.
+
+
 HOW TO RUN:
 1. Open terminal.
 2. Navigate to the folder where this project is downloaded.
